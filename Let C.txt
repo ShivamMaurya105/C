@@ -1,0 +1,6 @@
+literals>4 types>1-integer       2-float            3-character       4- string
+                      |              |                    |                | 
+                   +ve no.       +ve decimal         S h i v a m        "Shivam"
+                   -ve no.       -ve decimal         's','h','i',
+                   no decimal
+                  
